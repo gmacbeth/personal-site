@@ -1,0 +1,62 @@
+<html>
+
+	<head>
+
+		<title>Personal webpage of Graeme Macbeth</title>
+
+
+		<style>
+
+			.header {
+				color: green;
+				text-align: center;
+			}
+		
+			#words{
+				text-align: center;
+			}			
+
+			#profile {
+			
+				width: 25%;
+				height: 60%;
+				border-radius:75%;
+				display: block;				
+				margin: 0 auto;	
+			}
+
+		</style>
+
+	</head>
+
+	<body style="background-color:lightgray">
+
+		<div><img id="profile" src="gmacbethProfile.png"></div>
+
+		<p></p>
+
+		<div id="words">
+
+		<br>
+	
+		<h2 class="header">Who I am</h2>
+
+		<p>A Scotsman by birth and New Yorker by the Grace of God, I've spent my career in finance in various capacities. In recent years I've been focusing on the technology of finance.</p><br>
+
+		<h2 class="header">My social media</h2>
+
+		<p text-align:center>Linked-In <a href="https://www.linkedin.com/in/graeme-macbeth-0a960b5/">profile</a>
+
+		<p>Github <a href="https://github.com/gmacbeth">projects</a>
+		<br>
+
+		<h2 class="header">My current employer</h2>
+
+		<p><a href="http://www.fenics.com/">FENICS kAce<a> - the award-winning solution for FX derivatives</p>
+
+		</div>
+
+	</body>
+
+
+</html>
